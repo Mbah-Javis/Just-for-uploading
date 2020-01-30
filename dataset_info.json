@@ -1,5 +1,5 @@
 {
-  "citation": "\n@misc{Waldemar:2020 ,\nauthor = \"Waldemar W. Koczkodaj\",\nyear = \"2015\",\ntitle = \"{UCI} Machine Learning Repository\",\nurl = \"http://archive.ics.uci.edu/ml\",\ninstitution = \"University of California, Irvine, School of Information and Computer Sciences\"\n}\n",
+  "citation": "\n@misc{Waldemar:2020 ,\nauthor = \"Waldemar W. Koczkodaj\",\nyear = \"2015\",\ntitle = \"{UCI} Machine Learning Repository\",\nurl = \"https://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey\",\ninstitution = \"University of California, Irvine, School of Information and Computer Sciences\"\n}\n",
   "description": "It is a case of supervised learning with the use of Receiver Operating Characteristic (ROC) to \nselect the minimal set of attributes preserving or increasing predictability of the data.\n\nAttribute Information:\n\nD = decision attribute (D) with values 0 (unhappy) and 1 (happy) \nX1 = the availability of information about the city services \nX2 = the cost of housing \nX3 = the overall quality of public schools \nX4 = your trust in the local police \nX5 = the maintenance of streets and sidewalks \nX6 = the availability of social community events \n\nAttributes X1 to X6 have values 1 to 5.\n",
   "location": {
     "urls": [
@@ -45,5 +45,5 @@
     "input": "features",
     "output": "feeling"
   },
-  "version": "2.0.0"
+  "version": "1.0.0"
 }
